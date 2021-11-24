@@ -1,0 +1,26 @@
+{
+  "name": "zxb",
+  "version": "1.0.0",
+  "description": "一个快速搭建项目的脚手架",
+  "main": "index.js",
+  "bin": {
+    "zxb": "index.js"
+  },
+  "keywords": [
+    "vue",
+    "react",
+    "cli"
+  ],
+  "repository": "git@github.com:zxb1655/zxb-cli.git",
+  "author": "zxb https://github.com/zxb1655",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "download-git-repo": "^3.0.2",
+    "enquirer": "^2.3.6",
+    "inquirer": "^8.2.0",
+    "open": "^8.4.0",
+    "ora": "5.4.1"
+  }
+}
