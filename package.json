@@ -1,10 +1,10 @@
 {
-  "name": "zxb",
+  "name": "xzzcli",
   "version": "1.0.0",
-  "description": "一个快速搭建项目的脚手架",
+  "description": "小猪猪脚手架，一个快速根据模版搭建项目的脚手架",
   "main": "index.js",
   "bin": {
-    "zxb": "index.js"
+    "xzzcli": "index.js"
   },
   "keywords": [
     "vue",
@@ -12,7 +12,7 @@
     "cli"
   ],
   "repository": "git@github.com:zxb1655/zxb-cli.git",
-  "author": "zxb https://github.com/zxb1655",
+  "author": "xzz https://github.com/zxb1655",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
