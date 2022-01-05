@@ -1,7 +1,5 @@
 # 小猪猪脚手架说明文档
 
-## `xzzcli`:
-
 一个前端生成项目模版的 CLI;  
 gitHub 地址：https://github.com/zxb1655/xzzcli
 
@@ -17,11 +15,13 @@ vue2-h5 模版地址: https://github.com/zxb1655/vue2-h5
 ### 如何安装？
 
 ```shell
-npm install xzzcli -g
+npm install @zhangxubin/xzzcli -g
 ```
 
-### 如何安装？
+### 生成模版？
 
 ```shell
 xzzcli create
 ```
+
+![](https://cdn.jzzz66.cn/xzzcli1.png)

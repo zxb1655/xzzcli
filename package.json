@@ -1,6 +1,6 @@
 {
-  "name": "xzzcli",
-  "version": "1.0.0",
+  "name": "@zhangxubin/xzzcli",
+  "version": "1.0.1",
   "description": "小猪猪脚手架，一个快速根据模版搭建项目的脚手架",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,7 @@
     "react",
     "cli"
   ],
-  "repository": "git@github.com:zxb1655/zxb-cli.git",
+  "repository": "git@github.com:zxb1655/xzzcli.git",
   "author": "xzz https://github.com/zxb1655",
   "license": "MIT",
   "dependencies": {
