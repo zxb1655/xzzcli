@@ -1,6 +1,6 @@
 {
   "name": "@zhangxubin/xzzcli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "小猪猪脚手架，一个快速根据模版搭建项目的脚手架",
   "main": "index.js",
   "bin": {
